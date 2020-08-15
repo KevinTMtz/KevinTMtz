@@ -6,8 +6,6 @@ I am passionate about science and technology. I dream of creating technological 
 [![CodeForces](https://img.shields.io/badge/-Code%20Forces-ff6b6b?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/KevinTMtz)
 [![Hackerrank](https://img.shields.io/badge/-Hacker%20Rank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/KevinTMtz)
 
-___
-
 ### **💻 Languages that I have used**
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
@@ -17,12 +15,6 @@ ___
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Html](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-
-Currently learning:
-
-![Clojure](https://img.shields.io/badge/-Clojure-black?style=flat-square&logo=clojure)
-
-___
 
 ### **⚙️ Technologies that I have used**
 ![Github](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -45,6 +37,7 @@ ___
 
 Currently learning:
 
+![Clojure](https://img.shields.io/badge/-Clojure-black?style=flat-square&logo=clojure)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
