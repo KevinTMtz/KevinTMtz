@@ -3,7 +3,7 @@ I am passionate about science and technology. I dream of creating technological 
 
 [![MyPortfolio](https://img.shields.io/badge/-My%20Wep%20Page-5f27cd?style=for-the-badge&logo=atom&logoColor=white)](https://kevintmtz.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevintorresmtz)
-[![CodeForces](https://img.shields.io/badge/-Code%20Forces-ff6b6b?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.hackerrank.com/KevinTMtz)
+[![CodeForces](https://img.shields.io/badge/-Code%20Forces-ff6b6b?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/KevinTMtz)
 [![Hackerrank](https://img.shields.io/badge/-Hacker%20Rank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/KevinTMtz)
 
 ___
