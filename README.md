@@ -6,6 +6,8 @@ I am passionate about science and technology. I dream of creating technological 
 [![CodeForces](https://img.shields.io/badge/-Code%20Forces-ff6b6b?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/KevinTMtz)
 [![Hackerrank](https://img.shields.io/badge/-Hacker%20Rank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/KevinTMtz)
 
+___
+
 ### **💻 Languages that I have used**
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
@@ -35,7 +37,7 @@ I am passionate about science and technology. I dream of creating technological 
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![Raspberry](https://img.shields.io/badge/-Raspberry-black?style=flat-square&logo=raspberry-pi)
 
-Currently learning:
+#### Currently learning
 
 ![Clojure](https://img.shields.io/badge/-Clojure-black?style=flat-square&logo=clojure)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
