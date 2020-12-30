@@ -12,15 +12,15 @@ I am passionate about science and technology. I dream of creating technological 
 ### **Languages that I have used 💻**
 
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Cplusplus](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C%2B%2B)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Cplusplus](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-black?style=flat-square&logo=c%20sharp)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Html](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![Clojure](https://img.shields.io/badge/-Clojure-black?style=flat-square&logo=clojure)
+![Html](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 
 ### **Technologies that I have used ⚙️**
 
@@ -46,7 +46,7 @@ I am passionate about science and technology. I dream of creating technological 
 ### **Currently learning 📝**
 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
-![Microsoft Azure](https://img.shields.io/badge/-Microsot_Azure-black?style=flat-square&logo=microsoft-azure)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-black?style=flat-square&logo=microsoft-azure)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTMtz&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
